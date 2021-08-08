@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我是薛博通 哦吼吼！！！
 
 You can use the [editor on GitHub](https://github.com/xbtxbtxbt/xbtxbtxbt.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
